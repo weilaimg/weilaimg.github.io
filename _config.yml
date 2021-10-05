@@ -1,0 +1,18 @@
+# Setup
+title:        weilaimg.github.io
+tagline:      你好，世界
+baseurl:      ""
+paginate:     1
+locale:       "en"
+
+# About/contact
+author:
+  name:       weilaimg
+  url:        https://weilaimg.github.io
+
+# Gems
+gems:
+  - jekyll-paginate
+
+#Others
+markdown: kramdown

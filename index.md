@@ -9,6 +9,6 @@ categories: main
 
 ### WAMPO 有声书画本标记插件
 
-WAMPO（WPS Audiobook Mark Plug-On）是一个能够运行在 [WPS Office](https://www.wps.cn/) 客户端中的插件。插件通过 JavaScript 语言开发并支持所有能够成功运行 WPS 插件的客户端。
+WAMPO（WPS Audiobook Mark Plug-On）是一个能够运行在 [WPS Office](https://www.wps.cn/) 中的插件。插件通过 JavaScript 语言开发并支持所有能够运行 [WPS Office](https://www.wps.cn/) 插件的客户端。
 
 [点击这里](/WAMPO/) 安装并体验

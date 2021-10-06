@@ -1,9 +1,9 @@
 # Setup
-title:        weilaimg.github.io
+title:        欢 迎 访 问 魏 来 的 主 页
 tagline:      你好，世界
 baseurl:      ""
 paginate:     1
-locale:       "en"
+locale:       "zh"
 
 # About/contact
 author:
